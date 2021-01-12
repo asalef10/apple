@@ -1,0 +1,125 @@
+body{
+    
+}
+header{
+    text-align: center;
+    font-size: x-large;
+}
+@keyframes title{
+    0%{
+        transform: rotate(-50deg);
+    }
+    100%{
+        transform: rotate(390deg);
+        background-color: rgb(7, 6, 6);
+        color: rgb(250, 250, 250);
+    }
+}
+nav{
+    text-align: center;
+    font-size: large;
+    animation: title 4s linear;
+    text-decoration: none;
+
+}
+nav a{
+    text-decoration: none;
+  color: black;
+}
+#bigimg{
+    
+}
+img:nth-child(1){
+    height: 170px;
+}
+#box{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+#pho1{
+    /* width: 1700px;     */
+    background-color: black;
+    text-align:center;
+    color: rgb(238, 232, 232);
+    margin: auto;
+    transition: 3s linear;
+    
+}
+#pho1:hover{
+    
+}
+#title1{
+    background-color: rgb(224 224 224);}
+    
+#nis{
+    /* margin-right: 570px; */
+    background-color: rgb(39 39 39);}
+
+}
+ img{
+    width: 0px;
+    /* margin-left: 263px; */
+}
+.box2{
+    width: 326px;
+    height: 445px;
+    
+
+}
+#box5{
+    width: 275px;
+    height: 610px;
+    border-style: inset;
+    background-image: url(/iPhone4blu.jpg);
+    background-size: 87%;
+    transition: 3s linear;
+
+}#box5:hover{
+    background-image: url(/iphone4black);
+    background-size: 70%;
+}
+#box6{
+    width: 100%;
+    height: 542px;
+    border-style: inset;
+    background-image: url(/iphonegif.gif);
+    background-size: 52%;
+    margin-top: 330px;
+    
+}
+#box7{
+    width: 100%;
+    height: 535px;
+    background-image: url(/mac-apple.png);
+    background-size: 56%;
+    /* text-align: center; */
+    
+}#box7 h1{
+    text-align: center;
+    background-color: #a2a2a229;
+}
+#box7 p{
+    margin-top: 350px;;
+    font-size: large;
+}
+#box8{
+    width: 100%;
+    height: 542px;
+    text-align: center;
+    background-color: #a2a2a229;
+    font-size: larger;
+}
+    
+}
+#box8 img{
+    margin-left: 77px;
+    margin-top: 55px;
+    
+}
+#airpod2{
+    
+}
+#video{
+    margin-top: -2245px;
+}
