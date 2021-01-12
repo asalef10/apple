@@ -73,7 +73,7 @@ img:nth-child(1){
     border-style: inset;
     background-image: url(/iPhone4blu.jpg);
     background-size: 87%;
-    transition: 3s linear;
+    transition: 1s linear;
 
 }#box5:hover{
     background-image: url(/iphone4black);
